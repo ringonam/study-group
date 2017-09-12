@@ -38,4 +38,4 @@
 -   정원식 -
 -   조민혁 -
 -   최규선 -
--   남혜정- <http://github.com/ringom/>
+-   남혜정- <http://github.com/ringonam/>
